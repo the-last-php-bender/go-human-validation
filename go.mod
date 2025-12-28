@@ -2,7 +2,6 @@ module github.com/the-last-php-bender/go-human-validation
 
 go 1.24.0
 
-toolchain go1.24.11
 
 require github.com/go-playground/validator/v10 v10.30.1
 
